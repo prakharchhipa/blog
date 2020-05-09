@@ -1,0 +1,9 @@
+# Site settings
+title: "Prakhar's Blog"
+tagline: "Featured write ups by PRAKHAR"
+sidebar_image: /images/cover.jpg
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+baseurl: ""

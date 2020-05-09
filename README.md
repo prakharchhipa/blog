@@ -1,2 +1,1 @@
-# blog
-blogs by Prakhar
+Prakhar's Static Blog Portal
